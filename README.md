@@ -8,7 +8,7 @@
 ![42](https://badgen.net/badge/Born2Code/LILZ4CK/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLILZ4CK)
 <br />
 <br />
-<img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otmallah&show_icons=true&hide_border=true" />
+<img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LILZ4CK&show_icons=true&hide_border=true" />
 
 
 [![LILZ4CK's 42 stats](https://badge42.herokuapp.com/api/stats/zwalad?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
