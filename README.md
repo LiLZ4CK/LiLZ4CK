@@ -11,7 +11,7 @@
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LILZ4CK&show_icons=true&hide_border=true" />
 
 
-[![LILZ4CK's 42 stats](https://badge42.herokuapp.com/api/stats/zwalad?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![LILZ4CK's 42 stats]https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/stats?cursusId=21&coalitionId=80)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiLZ4CK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
