@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiLZ4CK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2513139)](https://github.com/JaeSeoKim/badge42)
 [![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/Libft)](https://github.com/JaeSeoKim/badge42)
 [![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/so_long)](https://github.com/JaeSeoKim/badge42)
 [![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/ft_printf)](https://github.com/JaeSeoKim/badge42)
