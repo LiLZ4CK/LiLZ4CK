@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
-- 📫 How to reach me: zakaria.waladd@gmail.com
 
 [![views](https://komarev.com/ghpvc/?username=LILZ4CK&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/LILZ4CK/)
 ![42](https://badgen.net/badge/Born2Code/zwalad/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) 
