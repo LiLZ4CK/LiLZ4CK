@@ -11,13 +11,15 @@
 <img align="left" alt="mallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LILZ4CK&show_icons=true&hide_border=true" />
 
 
-[![LILZ4CK's 42 stats]https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/stats?cursusId=21&coalitionId=80)
+[![zwalad's 42 stats](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiLZ4CK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![zwalad's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2513139)](https://github.com/JaeSeoKim/badge42)
-[![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/Libft)](https://github.com/JaeSeoKim/badge42)
-[![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/so_long)](https://github.com/JaeSeoKim/badge42)
-[![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/ft_printf)](https://github.com/JaeSeoKim/badge42)
-[![LILZ4CK's 42Project Score](https://badge42.herokuapp.com/api/project/zwalad/pipex)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 stats](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 so_long Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2445105)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2432709)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2428151)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2423458)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 Libft Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2395283)](https://github.com/JaeSeoKim/badge42)
