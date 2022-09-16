@@ -12,6 +12,10 @@
 
 [![zwalad's 42 stats](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
 
+[![zwalad's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2776155)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2757549)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 minishell Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2596530)](https://github.com/JaeSeoKim/badge42)
+[![zwalad's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2596529)](https://github.com/JaeSeoKim/badge42)
 [![zwalad's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2596528)](https://github.com/JaeSeoKim/badge42)
 [![zwalad's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2442931)](https://github.com/JaeSeoKim/badge42)
 [![zwalad's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl26ni8xv000609jowu6cqvbj/project/2513139)](https://github.com/JaeSeoKim/badge42)
